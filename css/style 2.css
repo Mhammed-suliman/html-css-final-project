@@ -1,0 +1,91 @@
+
+body{
+    background-image: url(../img/scp\ 99.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+div .logo{
+    width: 15%;
+    float: left;
+    border-radius: 25px;
+    margin: 10px;
+}
+ul li a{
+    text-decoration: none;
+    font-size: 16px;
+    padding: 30px;
+    color: rgb(255, 0, 0);    
+}
+ul li{
+    list-style: none;
+    display: inline;
+
+}
+.parent div{
+
+    margin: 2%;
+    width: calc( 300% / 6);
+    background-color: rgb(34, 0, 128);
+    float: left;
+    text-align: center;
+    border-radius: 30px;
+    padding: 1%;
+}
+img{
+    width: 100%;
+    border-radius: 20px;
+}
+.forest1{
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+    background-color: yellow;
+    border-start-start-radius: 15px;
+    border-end-end-radius: 15px;
+}
+.forest2{
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+    background-color: yellow;
+    border-start-start-radius: 15px;
+    border-end-end-radius: 15px;
+    width: 200px;
+    height: 100px;
+}
+.forest3{
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+    background-color: yellow;
+    border-start-start-radius: 15px;
+    border-end-end-radius: 15px;
+}
+.forest4{
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+    background-color: yellow;
+    border-start-start-radius: 15px;
+    border-end-end-radius: 15px;
+}
+.forest5{
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+    background-color: yellow;
+    border-start-start-radius: 15px;
+    border-end-end-radius: 15px;
+}
+.forest6{
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+    background-color: yellow;
+    border-start-start-radius: 15px;
+    border-end-end-radius: 15px;
+}
+button :hover{
+    color:rgb(0, 38, 255);
+}

@@ -1,0 +1,85 @@
+
+body{
+    background-image: url(../img/scp\ 77.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+div .logo{
+    width: 15%;
+    float: left;
+    border-radius: 25px;
+    margin: 10px;
+}
+ul li a{
+    text-decoration: none;
+    font-size: 16px;
+    padding: 30px;
+    color: rgb(255, 0, 0);    
+}
+ul li{
+    list-style: none;
+    display: inline;
+
+}
+.parent div{
+
+    margin: 2%;
+    width: calc( 275% / 6);
+    background-color: rgb(0, 128, 0);
+    float: left;
+    text-align: center;
+    border-radius: 30px;
+    padding: 1%;
+    
+}
+img{
+    width: 100%;
+    border-radius: 20px;
+}
+.koala{
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+    background-color: yellow;
+    border-radius: 30px;
+    
+}
+.cheetah{
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+    background-color: yellow;
+    border-radius: 30px;
+}
+.tiger{
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+    background-color: yellow;
+    border-radius: 30px;
+}
+.duck{
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+    background-color: yellow;
+    border-radius: 30px;
+}
+.elephant{
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+    background-color: yellow;
+    border-radius: 30px;
+}
+.eagle{
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+    background-color: yellow;
+    border-radius: 30px;
+}
+button :hover{
+    color:rgb(0, 38, 255);
+}
